@@ -1,4 +1,4 @@
-package com.anisha.promoEngine.Model;
+package com.anisha.promoEngine.model;
 
 import lombok.Getter;
 import lombok.Setter;

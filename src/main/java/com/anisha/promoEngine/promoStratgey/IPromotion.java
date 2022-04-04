@@ -1,6 +1,6 @@
 package com.anisha.promoEngine.promoStratgey;
 
-import com.anisha.promoEngine.Model.Cart;
+import com.anisha.promoEngine.model.Cart;
 
 
 public interface IPromotion {

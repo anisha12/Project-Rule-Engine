@@ -1,7 +1,7 @@
 package com.anisha.promoEngine;
 
-import com.anisha.promoEngine.Model.Cart;
-import com.anisha.promoEngine.Model.Product;
+import com.anisha.promoEngine.model.Cart;
+import com.anisha.promoEngine.model.Product;
 import com.anisha.promoEngine.promoStratgey.IPromotion;
 
 import java.util.ArrayList;
@@ -55,5 +55,5 @@ public class PromotionEngine {
         return applyPromotion(promotedCart, availablePromotion, checkoutPrice);
     }
 
-    }
+
 }

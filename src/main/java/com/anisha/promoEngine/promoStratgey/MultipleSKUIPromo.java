@@ -1,7 +1,7 @@
 package com.anisha.promoEngine.promoStratgey;
 
-import com.anisha.promoEngine.Model.Cart;
-import com.anisha.promoEngine.Model.Product;
+import com.anisha.promoEngine.model.Cart;
+import com.anisha.promoEngine.model.Product;
 import com.anisha.promoEngine.PriceList;
 import lombok.AllArgsConstructor;
 
